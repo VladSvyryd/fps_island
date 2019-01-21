@@ -1,0 +1,48 @@
+Begin Object Class=/Script/Engine.Material Name="AK_Material"
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'"/Game/Weapon/AK_diffuse.AK_diffuse"'
+      MaterialExpressionEditorX=-258
+      MaterialExpressionEditorY=-8
+      MaterialExpressionGuid=877C33344282D8A1127153AD48EAFBD7
+      Material=Material'"AK_Material"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_1"
+      Texture=Texture2D'"/Game/Weapon/AK_normal.AK_normal"'
+      SamplerType=SAMPLERTYPE_Normal
+      MaterialExpressionEditorX=-448
+      MaterialExpressionEditorY=272
+      MaterialExpressionGuid=D075B4A842D068471A34B3827A5CAB45
+      Material=Material'"AK_Material"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Texture=Texture2D'"/Game/Weapon/AK_specular.AK_specular"'
+      MaterialExpressionEditorX=-311
+      MaterialExpressionEditorY=593
+      MaterialExpressionGuid=E30672EE4C415E132D96708903716A23
+      Material=Material'"AK_Material"'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Specular=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Normal=(Expression=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_0"'
+   Expressions(1)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_1"'
+   Expressions(2)=MaterialExpressionTextureSample'"MaterialExpressionTextureSample_2"'
+   ParameterGroupData(0)=(GroupName="None")
+   bCanMaskedBeAssumedOpaque=True
+   StateId=6524C99F4758669C8C0D20A3A06DC9DD
+   ReferencedTextureGuids(0)=40D12DC642ED7420604CA6AD7A262753
+   ReferencedTextureGuids(1)=F7BCA2CD48657F98F3718D99B2DD72BB
+   ReferencedTextureGuids(2)=5DB6208E4586D483D8200A9B2C16D05C
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=63BC6A014C168BEE94622892AB3CC835
+End Object

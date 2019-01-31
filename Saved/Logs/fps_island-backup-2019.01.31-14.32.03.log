@@ -1,0 +1,908 @@
+﻿Log file open, 01/31/19 15:08:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: fps_island
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.147435
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.071s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Engine.ini]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Engine.ini]
+[2019.01.31-14.08.04:909][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Engine.ini]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Engine.ini]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.31-14.08.04:909][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.31-14.08.04:910][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.31-14.08.04:910][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.31-14.08.04:910][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.31-14.08.04:910][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.31-14.08.04:910][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Engine.ini]
+[2019.01.31-14.08.04:910][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Engine.ini]
+[2019.01.31-14.08.04:912][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.31-14.08.04:912][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.31-14.08.04:913][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.31-14.08.04:913][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.31-14.08.04:913][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.31-14.08.04:913][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.31-14.08.04:913][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.31-14.08.04:913][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.31-14.08.04:913][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.31-14.08.04:913][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.08.04:913][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.31-14.08.04:913][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.31-14.08.04:913][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.31-14.08.04:913][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.31-14.08.04:971][  0]LogHAL: Display: Platform has ~ 16 GB [17057173504 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.31-14.08.04:971][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.31-14.08.04:971][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.31-14.08.04:971][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.08.04:971][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.01.31-14.08.04:971][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.01.31-14.08.04:971][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.08.04:971][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.01.31-14.08.04:971][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.08.04:971][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.31-14.08.04:971][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.01.31-14.08.04:971][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.01.31-14.08.04:971][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.01.31-14.08.04:971][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.01.31-14.08.04:971][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.01.31-14.08.04:971][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.01.31-14.08.04:971][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.01.31-14.08.04:971][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.01.31-14.08.04:971][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.31-14.08.04:972][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.01.31-14.08.04:973][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.01.31-14.08.04:973][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.08.04:973][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.01.31-14.08.04:973][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.01.31-14.08.04:973][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.31-14.08.04:973][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.31-14.08.04:973][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Engine.ini]
+[2019.01.31-14.08.04:973][  0]LogInit: Computer: DESKTOP-ISRVTHC
+[2019.01.31-14.08.04:973][  0]LogInit: User: alex
+[2019.01.31-14.08.04:973][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.01.31-14.08.04:973][  0]LogInit: High frequency timer resolution =2.835936 MHz
+[2019.01.31-14.08.04:973][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.31-14.08.04:973][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.31-14.08.04:973][  0]LogMemory: Process Physical Memory: 102.41 MB used, 102.41 MB peak
+[2019.01.31-14.08.04:973][  0]LogMemory: Process Virtual Memory: 84.48 MB used, 84.48 MB peak
+[2019.01.31-14.08.04:973][  0]LogMemory: Physical Memory: 4247.78 MB used,  12019.21 MB free, 16266.99 MB total
+[2019.01.31-14.08.04:973][  0]LogMemory: Virtual Memory: 4623.98 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2019.01.31-14.08.04:994][  0]LogInit: Using OS detected language (de-DE).
+[2019.01.31-14.08.04:994][  0]LogInit: Using OS detected locale (de-DE).
+[2019.01.31-14.08.04:995][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so the 'de' localization will be used.
+[2019.01.31-14.08.04:996][  0]LogStreaming: Display: Took  0.002s to InitEngineTextLocalization.
+[2019.01.31-14.08.04:996][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.31-14.08.05:021][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.31-14.08.05:021][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.31-14.08.05:272][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.31-14.08.05:272][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.31-14.08.05:304][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.01.31-14.08.05:304][  0]LogD3D11RHI:       4064/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.31-14.08.05:310][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.01.31-14.08.05:310][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.31-14.08.05:312][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.31-14.08.05:312][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.31-14.08.05:312][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.31-14.08.05:338][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.31-14.08.05:338][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.01.31-14.08.05:338][  0]LogWindows: EnumDisplayDevices:
+[2019.01.31-14.08.05:338][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.01.31-14.08.05:338][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.01.31-14.08.05:339][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.01.31-14.08.05:339][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.01.31-14.08.05:339][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.01.31-14.08.05:339][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.01.31-14.08.05:339][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.01.31-14.08.05:339][  0]LogRHI: Texture pool is 2845 MB (70% of 4064 MB)
+[2019.01.31-14.08.05:354][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.31-14.08.05:372][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.31-14.08.05:752][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.31-14.08.05:769][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.31-14.08.05:782][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.31-14.08.05:796][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.31-14.08.05:809][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.31-14.08.05:822][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.31-14.08.05:835][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.31-14.08.05:849][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.31-14.08.05:854][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:935][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.08.05:936][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.31-14.08.05:995][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.31-14.08.05:995][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.31-14.08.06:020][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.31-14.08.06:020][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.31-14.08.06:035][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.31-14.08.06:048][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.31-14.08.06:063][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.31-14.08.06:076][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.31-14.08.06:126][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.31-14.08.06:126][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.31-14.08.06:126][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.31-14.08.06:179][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (../../../../../Game_Engines/Island_FPS_UE/Intermediate/Shaders/WorkingDirectory/11772/).
+[2019.01.31-14.08.06:179][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alex-/AppData/Local/Temp/UnrealShaderWorkingDir/5B85D7414BF2E193FA16B4B8649839F6/'.
+[2019.01.31-14.08.06:181][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.31-14.08.06:181][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.31-14.08.06:181][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.31-14.08.06:782][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.31-14.08.06:834][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/alex-/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.31-14.08.06:834][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alex-/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.31-14.08.06:834][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Game_Engines/Island_FPS_UE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.31-14.08.06:834][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.31-14.08.06:834][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Game_Engines/Island_FPS_UE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.31-14.08.06:834][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.31-14.08.06:848][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.31-14.08.06:848][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.31-14.08.06:848][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.31-14.08.06:860][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alex-/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.31-14.08.06:860][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.31-14.08.06:860][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.31-14.08.06:888][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.31-14.08.06:890][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.31-14.08.06:890][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.31-14.08.06:974][  0]LogAssetRegistry: FAssetRegistry took 0.0325 seconds to start up
+[2019.01.31-14.08.07:312][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.31-14.08.07:463][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.31-14.08.07:466][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.31-14.08.07:466][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.31-14.08.07:467][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.31-14.08.07:467][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.31-14.08.07:479][  0]LogNetVersion: fps_island 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1149664083)
+[2019.01.31-14.08.07:971][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.068857 seconds
+[2019.01.31-14.08.07:978][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.31-14.08.07:978][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.31-14.08.07:978][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.31-14.08.08:843][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.31-14.08.08:857][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.31-14.08.09:550][  0]SourceControl: Source control is disabled
+[2019.01.31-14.08.09:550][  0]SourceControl: Source control is disabled
+[2019.01.31-14.08.09:552][  0]SourceControl: Source control is disabled
+[2019.01.31-14.08.09:553][  0]SourceControl: Source control is disabled
+[2019.01.31-14.08.09:712][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.31-14.08.09:765][  0]LogOcInput: OculusInput pre-init called
+[2019.01.31-14.08.09:899][  0]LogEngine: Initializing Engine...
+[2019.01.31-14.08.09:899][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.31-14.08.09:900][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.31-14.08.09:900][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.31-14.08.09:900][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.31-14.08.09:900][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.31-14.08.10:137][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.31-14.08.10:152][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.31-14.08.10:170][  0]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.31-14.08.10:342][  0]LogInit: FAudioDevice initialized.
+[2019.01.31-14.08.10:342][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.31-14.08.10:472][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/alex-/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.31-14.08.10:477][  0]LogInit: Texture streaming: Enabled
+[2019.01.31-14.08.10:490][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.31-14.08.10:501][  0]LogInit: Transaction tracking system initialized
+[2019.01.31-14.08.10:518][  0]BlueprintLog: New page: Editor Load
+[2019.01.31-14.08.10:575][  0]LocalizationService: Localization service is disabled
+[2019.01.31-14.08.11:477][  0]LogFileCache: Scanning file cache for directory 'D:/Game_Engines/Island_FPS_UE/Content/' took 0.02s
+[2019.01.31-14.08.11:477][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.31-14.08.11:477][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.31-14.08.11:477][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.31-14.08.11:477][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.31-14.08.11:477][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.31-14.08.11:477][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.31-14.08.11:477][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.31-14.08.11:608][  0]SourceControl: Source control is disabled
+[2019.01.31-14.08.11:696][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.31-14.08.11:697][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.31-14.08.18:541][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.01.31-14.08.18:541][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.31-14.08.18:543][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.31-14.08.19:774][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.01.31-14.08.19:774][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.31-14.08.19:776][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.31-14.08.19:792][  0]Cmd: MAP LOAD FILE="../../../../../Game_Engines/Island_FPS_UE/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.31-14.08.19:793][  0]LightingResults: New page: Lighting Build
+[2019.01.31-14.08.19:796][  0]MapCheck: New page: Map Check
+[2019.01.31-14.08.19:796][  0]LightingResults: New page: Lighting Build
+[2019.01.31-14.08.20:483][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.31-14.08.20:500][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.31-14.08.20:523][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.31-14.08.20:524][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,148ms to complete.
+[2019.01.31-14.08.20:524][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.731
+[2019.01.31-14.08.20:567][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-14.08.20:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-14.08.20:583][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-14.08.20:593][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-14.08.20:598][  0]LogCollectionManager: Loaded 0 collections in 0.001308 seconds
+[2019.01.31-14.08.20:625][  0]LogFileCache: Scanning file cache for directory 'D:/Game_Engines/Island_FPS_UE/Saved/Collections/' took 0.01s
+[2019.01.31-14.08.20:625][  0]LogFileCache: Scanning file cache for directory 'D:/Game_Engines/Island_FPS_UE/Content/Developers/alex/Collections/' took 0.00s
+[2019.01.31-14.08.20:625][  0]LogFileCache: Scanning file cache for directory 'D:/Game_Engines/Island_FPS_UE/Content/Collections/' took 0.01s
+[2019.01.31-14.08.20:625][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.31-14.08.20:634][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2651 classes and 620 folders.
+[2019.01.31-14.08.20:639][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.31-14.08.20:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:644][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:651][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:652][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:652][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:653][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.08.20:686][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.31-14.08.20:690][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.31-14.08.20:783][  0]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.31-14.08.20:792][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.31-14.08.20:853][  0]LogRenderer: Reallocating scene render targets to support 876x484 Format 9 NumSamples 1 (Frame:1).
+[2019.01.31-14.08.20:971][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.31-14.08.20:971][  0]LogLoad: (Engine Initialization) Total time: 17.57 seconds
+[2019.01.31-14.08.20:971][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.31-14.08.21:057][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.01.31-14.08.21:083][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.31-14.08.21:357][  4]LogAssetRegistry: Asset discovery search completed in 14.4046 seconds
+[2019.01.31-14.08.21:359][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.31-14.08.21:359][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000068 seconds (updated 0 objects)
+[2019.01.31-14.08.26:102][288]LogFileCache: Retrieving MD5 hashes for directory 'D:/Game_Engines/Island_FPS_UE/Content/' took 5.10s
+[2019.01.31-14.08.28:336][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.08.50:814][665]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.31-14.08.50:820][665]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.31-14.08.56:296][665]LogTexture: Display: Building textures: T_Cliff01_D_CC_R (AutoDXT, 8192X8192)
+[2019.01.31-14.10.12:886][665]LogStaticMesh: Building static mesh SM_Cliff01...
+[2019.01.31-14.10.15:178][665]LogStaticMesh: Built static mesh [2.29s] /Game/KiteDemo/Environments/Cliffs/Cliff01/SM_Cliff01.SM_Cliff01
+[2019.01.31-14.10.21:002][963]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (5.198 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.31-14.10.44:499][333]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.01.31-14.10.53:744][839]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise'
+[2019.01.31-14.10.53:744][839]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01.uasset.
+[2019.01.31-14.10.53:744][839]LoadErrors: Error: /Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01 : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise
+[2019.01.31-14.10.53:745][839]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise'
+[2019.01.31-14.10.53:745][839]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01.uasset.
+[2019.01.31-14.10.53:946][839]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise'
+[2019.01.31-14.10.53:946][839]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise.T_SwirlNoise Referenced by MaterialExpressionTextureSample_7
+[2019.01.31-14.10.53:946][839]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise' while loading NULL.
+[2019.01.31-14.10.54:284][839]LogMaterial: Display: Missing cached shader map for material M_Buttercup_Patch_01, compiling. 
+[2019.01.31-14.10.54:286][839]LogMaterial: Warning: D:\Game_Engines\Island_FPS_UE\Content\KiteDemo\Environments\Foliage\Flowers\Buttercup\M_Buttercup_Patch_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.31-14.10.54:286][839]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.01.31-14.10.54:289][839]LogMaterial: Display: Missing cached shader map for material M_Buttercup_Patch_01, compiling. 
+[2019.01.31-14.10.54:421][839]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.01.31-14.10.54:421][839]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.01.31-14.10.54:421][839]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.01.31-14.10.54:421][839]LogAIModule: Creating AISystem for world IslandLandscape
+[2019.01.31-14.10.54:438][839]LogMaterial: Warning: Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_Mat.ScotsPine_01_Branches_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.31-14.10.54:446][839]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Branches_Mat, compiling. 
+[2019.01.31-14.10.54:490][839]MapCheck: Warning: ScotsPine_01_Branches_Mat Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_Mat.ScotsPine_01_Branches_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.31-14.10.54:499][839]LogMaterial: Warning: Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_2_Mat.ScotsPine_01_Branches_2_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.31-14.10.54:511][839]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Branches_2_Mat, compiling. 
+[2019.01.31-14.10.54:576][839]MapCheck: Warning: ScotsPine_01_Branches_2_Mat Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Branches_2_Mat.ScotsPine_01_Branches_2_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.31-14.10.54:576][839]LogMaterial: Warning: Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Leaves_Mat.ScotsPine_01_Leaves_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.31-14.10.54:583][839]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Leaves_Mat, compiling. 
+[2019.01.31-14.10.54:642][839]MapCheck: Warning: ScotsPine_01_Leaves_Mat Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Leaves_Mat.ScotsPine_01_Leaves_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.31-14.10.54:642][839]LogMaterial: Warning: Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Fronds_Mat.ScotsPine_01_Fronds_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.31-14.10.54:651][839]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Fronds_Mat, compiling. 
+[2019.01.31-14.10.54:709][839]MapCheck: Warning: ScotsPine_01_Fronds_Mat Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Fronds_Mat.ScotsPine_01_Fronds_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.31-14.10.54:709][839]LogMaterial: Warning: Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Billboard_Mat.ScotsPine_01_Billboard_Mat needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.01.31-14.10.54:717][839]LogMaterial: Display: Missing cached shader map for material ScotsPine_01_Billboard_Mat, compiling. 
+[2019.01.31-14.10.54:783][839]MapCheck: Warning: ScotsPine_01_Billboard_Mat Material /Game/KiteDemo/Environments/Trees/ScotsPine_01/ScotsPine_01_Billboard_Mat.ScotsPine_01_Billboard_Mat was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.31-14.10.54:807][839]LogAssetEditorManager: Opening Asset editor for World /Game/FirstPersonBP/Maps/IslandLandscape.IslandLandscape
+[2019.01.31-14.10.56:588][839]LogShaderCompilers: Display: Shaders left to compile 530
+[2019.01.31-14.10.56:760][839]LogShaderCompilers: Display: Shaders left to compile 520
+[2019.01.31-14.10.56:946][839]LogShaderCompilers: Display: Shaders left to compile 510
+[2019.01.31-14.10.59:386][839]LogShaderCompilers: Display: Shaders left to compile 500
+[2019.01.31-14.11.00:254][839]LogShaderCompilers: Display: Shaders left to compile 490
+[2019.01.31-14.11.00:492][839]LogShaderCompilers: Display: Shaders left to compile 480
+[2019.01.31-14.11.01:458][839]LogShaderCompilers: Display: Shaders left to compile 470
+[2019.01.31-14.11.02:586][839]LogShaderCompilers: Display: Shaders left to compile 460
+[2019.01.31-14.11.02:603][839]LogSlate: Window 'Save Content' being destroyed
+[2019.01.31-14.11.02:685][839]LogShaderCompilers: Display: Shaders left to compile 450
+[2019.01.31-14.11.02:685][839]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.01.31-14.11.02:704][839]Cmd: MAP LOAD FILE="../../../../../Game_Engines/Island_FPS_UE/Content/FirstPersonBP/Maps/IslandLandscape.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.31-14.11.02:706][839]LightingResults: New page: Lighting Build
+[2019.01.31-14.11.02:707][839]LoadErrors: New page: Loading map: IslandLandscape.umap
+[2019.01.31-14.11.02:709][839]MapCheck: New page: Map Check
+[2019.01.31-14.11.02:709][839]LightingResults: New page: Lighting Build
+[2019.01.31-14.11.03:078][839]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.31-14.11.03:161][839]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.31-14.11.03:161][839]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,116ms to complete.
+[2019.01.31-14.11.03:161][839]LogFileHelpers: Loading map 'IslandLandscape' took 0.556
+[2019.01.31-14.11.06:998][981]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-14.11.07:002][981]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-14.11.07:123][987]LogShaderCompilers: Display: Shaders left to compile 440
+[2019.01.31-14.11.08:546][ 36]LogShaderCompilers: Display: Shaders left to compile 430
+[2019.01.31-14.11.09:757][ 90]LogShaderCompilers: Display: Shaders left to compile 420
+[2019.01.31-14.11.11:474][182]LogShaderCompilers: Display: Shaders left to compile 410
+[2019.01.31-14.11.14:285][301]LogShaderCompilers: Display: Shaders left to compile 400
+[2019.01.31-14.11.15:755][367]LogShaderCompilers: Display: Shaders left to compile 390
+[2019.01.31-14.11.18:810][473]LogShaderCompilers: Display: Shaders left to compile 380
+[2019.01.31-14.11.18:888][473]LogShaderCompilers: Display: Shaders left to compile 370
+[2019.01.31-14.11.20:673][473]LogShaderCompilers: Display: Shaders left to compile 360
+[2019.01.31-14.11.21:820][473]LogShaderCompilers: Display: Shaders left to compile 350
+[2019.01.31-14.11.23:279][473]LogShaderCompilers: Display: Shaders left to compile 340
+[2019.01.31-14.11.23:758][473]LogShaderCompilers: Display: Shaders left to compile 330
+[2019.01.31-14.11.24:556][473]LogShaderCompilers: Display: Shaders left to compile 320
+[2019.01.31-14.11.26:184][473]LogShaderCompilers: Display: Shaders left to compile 310
+[2019.01.31-14.11.27:511][473]LogShaderCompilers: Display: Shaders left to compile 300
+[2019.01.31-14.11.28:927][473]LogShaderCompilers: Display: Shaders left to compile 290
+[2019.01.31-14.11.29:321][473]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2019.01.31-14.11.29:617][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.31-14.11.29:934][474]LogShaderCompilers: Display: Shaders left to compile 280
+[2019.01.31-14.11.31:983][474]LogShaderCompilers: Display: Shaders left to compile 270
+[2019.01.31-14.11.32:927][474]LogShaderCompilers: Display: Shaders left to compile 260
+[2019.01.31-14.11.34:498][474]LogShaderCompilers: Display: Shaders left to compile 250
+[2019.01.31-14.11.35:227][475]LogShaderCompilers: Display: Shaders left to compile 240
+[2019.01.31-14.11.35:295][475]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2019.01.31-14.11.35:423][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.31-14.11.36:912][477]LogShaderCompilers: Display: Shaders left to compile 230
+[2019.01.31-14.11.37:292][477]LogShaderCompilers: Display: Shaders left to compile 220
+[2019.01.31-14.11.39:664][477]LogShaderCompilers: Display: Shaders left to compile 210
+[2019.01.31-14.11.40:789][477]LogShaderCompilers: Display: Shaders left to compile 200
+[2019.01.31-14.11.41:226][478]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.01.31-14.11.43:498][480]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.01.31-14.11.44:680][480]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.01.31-14.11.45:719][480]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.01.31-14.11.45:948][481]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2019.01.31-14.11.46:042][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.31-14.11.47:865][589]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.01.31-14.11.48:524][594]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.01.31-14.11.49:200][594]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.01.31-14.11.51:786][594]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.01.31-14.11.52:055][601]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.01.31-14.11.52:881][649]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.01.31-14.11.57:190][814]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.01.31-14.11.58:462][877]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.01.31-14.11.59:716][913]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.01.31-14.12.01:047][946]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.01.31-14.12.03:201][ 14]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.31-14.12.03:840][ 33]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.31-14.12.08:513][191]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.31-14.12.09:120][211]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.31-14.12.09:171][212]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.31-14.12.21:031][606]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.405 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.31-14.12.21:441][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.12.21:508][623]MapCheck: New page: Map Check
+[2019.01.31-14.12.21:527][623]Cmd: MAP REBUILD ALLVISIBLE
+[2019.01.31-14.12.21:527][623]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.01.31-14.12.21:772][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.01.31-14.12.21:779][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2019.01.31-14.12.21:787][623]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.31-14.12.21:787][623]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.31-14.12.21:787][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Ocean, compiling. 
+[2019.01.31-14.12.21:797][623]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.31-14.12.21:797][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ScotsPine_01_Branches_Mat, compiling. 
+[2019.01.31-14.12.21:808][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ScotsPine_01_Branches_2_Mat, compiling. 
+[2019.01.31-14.12.21:822][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ScotsPine_01_Leaves_Mat, compiling. 
+[2019.01.31-14.12.21:833][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ScotsPine_01_Fronds_Mat, compiling. 
+[2019.01.31-14.12.21:844][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy ScotsPine_01_Billboard_Mat, compiling. 
+[2019.01.31-14.12.21:858][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FieldGrass_Inst_01, compiling. 
+[2019.01.31-14.12.21:873][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FieldGrass_Inst_01_LOD1, compiling. 
+[2019.01.31-14.12.21:887][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FieldGrass_Inst_01_LOD2, compiling. 
+[2019.01.31-14.12.21:899][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_DeadLeaves, compiling. 
+[2019.01.31-14.12.21:911][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Buttercup_Patch_01, compiling. 
+[2019.01.31-14.12.21:923][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Buttercup_Patch_01_Inst_NoWPO, compiling. 
+[2019.01.31-14.12.21:938][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Yarrow_PP_Wind_Inst, compiling. 
+[2019.01.31-14.12.21:952][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_HeatherPatches_Inst2, compiling. 
+[2019.01.31-14.12.21:966][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.01.31-14.12.21:979][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2019.01.31-14.12.21:993][623]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2019.01.31-14.12.23:716][623]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.31-14.12.23:716][623]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.31-14.12.23:716][623]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.31-14.12.23:716][623]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.31-14.12.23:716][623]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.31-14.12.23:716][623]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.31-14.12.23:716][623]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.31-14.12.23:716][623]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.31-14.12.23:716][623]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.31-14.12.23:716][623]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.31-14.12.23:716][623]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.31-14.12.23:716][623]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.31-14.12.23:716][623]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.31-14.12.23:716][623]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.31-14.12.23:716][623]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.31-14.12.23:716][623]TextureStreamingBuild: Display: Compiling optional shaders took 1.949 seconds.
+[2019.01.31-14.12.23:721][623]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2019.01.31-14.12.23:781][623]TextureStreamingBuild: Display: Build Texture Streaming took 0.061 seconds.
+[2019.01.31-14.12.23:801][623]LightingResults: New page: Lighting Build - 31.01.2019 16:12:23
+[2019.01.31-14.12.23:817][623]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent was too big and it was automatically reduced. Consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.01.31-14.12.23:817][623]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.01.31-14.12.23:817][623]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.01.31-14.12.23:863][623]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent was too big and it was automatically reduced. Consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.01.31-14.12.23:863][623]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.01.31-14.12.23:863][623]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.01.31-14.12.23:874][623]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent was too big and it was automatically reduced. Consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.01.31-14.12.23:874][623]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.01.31-14.12.23:874][623]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.01.31-14.12.23:880][623]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.01.31-14.12.23:880][623]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.01.31-14.12.23:884][623]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.01.31-14.12.23:884][623]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.01.31-14.12.23:885][623]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.01.31-14.12.23:885][623]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.01.31-14.12.23:885][623]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.01.31-14.12.23:922][623]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.01.31-14.12.24:032][623]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.01.31-14.12.24:045][623]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.01.31-14.12.24:553][623]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.01.31-14.12.24:553][623]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11772
+[2019.01.31-14.12.26:860][623]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.01.31-14.12.30:312][623]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.01.31-14.12.30:312][623]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.01.31-14.12.30:312][623]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.01.31-14.12.30:312][623]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.01.31-14.12.30:312][623]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.01.31-14.12.31:562][623]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.01.31-14.12.31:562][623]MapCheck: New page: IslandLandscape - 31.01.2019 16:12:31
+[2019.01.31-14.12.31:562][623]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2019.01.31-14.12.31:563][623]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1,116ms to complete.
+[2019.01.31-14.12.31:586][623]LogEditorBuildUtils: Build time 0:10
+[2019.01.31-14.12.31:590][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.31-14.12.31:660][624]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScotsPine_01_Branches_Mat, compiling. 
+[2019.01.31-14.12.31:671][624]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.31-14.12.31:671][624]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScotsPine_01_Branches_Mat, compiling. 
+[2019.01.31-14.12.31:686][624]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.31-14.12.31:704][625]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScotsPine_01_Branches_2_Mat, compiling. 
+[2019.01.31-14.12.31:718][625]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.31-14.12.31:718][625]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScotsPine_01_Branches_2_Mat, compiling. 
+[2019.01.31-14.12.31:953][626]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScotsPine_01_Leaves_Mat, compiling. 
+[2019.01.31-14.12.31:965][626]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScotsPine_01_Leaves_Mat, compiling. 
+[2019.01.31-14.12.31:976][626]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScotsPine_01_Leaves_Mat, compiling. 
+[2019.01.31-14.12.32:011][627]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScotsPine_01_Fronds_Mat, compiling. 
+[2019.01.31-14.12.32:026][627]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScotsPine_01_Fronds_Mat, compiling. 
+[2019.01.31-14.12.32:056][628]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScotsPine_01_Billboard_Mat, compiling. 
+[2019.01.31-14.12.32:071][628]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScotsPine_01_Billboard_Mat, compiling. 
+[2019.01.31-14.12.32:085][628]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ScotsPine_01_Billboard_Mat, compiling. 
+[2019.01.31-14.12.32:107][629]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Buttercup_Patch_01, compiling. 
+[2019.01.31-14.12.32:121][629]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Buttercup_Patch_01, compiling. 
+[2019.01.31-14.12.32:134][629]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Buttercup_Patch_01, compiling. 
+[2019.01.31-14.12.32:156][630]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Buttercup_Patch_01_Inst_NoWPO, compiling. 
+[2019.01.31-14.12.32:175][630]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Buttercup_Patch_01_Inst_NoWPO, compiling. 
+[2019.01.31-14.12.32:187][630]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Buttercup_Patch_01_Inst_NoWPO, compiling. 
+[2019.01.31-14.12.35:007][632]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.31-14.12.35:007][632]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.31-14.12.35:007][632]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.31-14.13.46:185][898]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-14.13.46:195][898]LogSlate: Window 'Message Log' being destroyed
+[2019.01.31-14.16.12:690][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.17.09:816][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.18.53:084][848]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2019.01.31-14.19.05:385][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.19.08:849][296]LogSlate: Window 'Message' being destroyed
+[2019.01.31-14.19.41:620][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.19.43:808][696]LogSlate: Window 'Message' being destroyed
+[2019.01.31-14.20.42:376][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.21.41:470][226]Cmd: TRANSACTION UNDO
+[2019.01.31-14.21.41:470][226]LogEditorTransaction: Undo Foliage Editing
+[2019.01.31-14.21.43:285][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.21.47:535][468]Cmd: TRANSACTION UNDO
+[2019.01.31-14.21.47:535][468]LogEditorTransaction: Undo Foliage Editing
+[2019.01.31-14.21.56:456][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.22.04:450][333]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2019.01.31-14.22.16:298][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.22.36:638][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.25.04:395][785]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.31-14.25.08:910][785]LogSavePackage: Moving '../../../../../Game_Engines/Island_FPS_UE/Saved/IslandLandscape_Auto1926A38FA4F04A5E685FF0C9C0078D572.tmp' to '../../../../../Game_Engines/Island_FPS_UE/Saved/Autosaves/Game/FirstPersonBP/Maps/IslandLandscape_Auto1.umap'
+[2019.01.31-14.25.09:104][785]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/IslandLandscape' took 4.258
+[2019.01.31-14.25.09:104][785]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.258
+[2019.01.31-14.25.25:070][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.25.33:856][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.25.35:483][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.26.31:724][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.26.33:532][107]LogSavePackage: Moving '../../../../../Game_Engines/Island_FPS_UE/Saved/IslandLandscape82DDEDBB4B523F0C0A419C8619AEA7F7.tmp' to '../../../../../Game_Engines/Island_FPS_UE/Content/FirstPersonBP/Maps/IslandLandscape.umap'
+[2019.01.31-14.26.33:796][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/IslandLandscape_BuiltData" FILE="../../../../../Game_Engines/Island_FPS_UE/Content/FirstPersonBP/Maps/IslandLandscape_BuiltData.uasset" SILENT=true
+[2019.01.31-14.26.34:427][107]LogSavePackage: Moving '../../../../../Game_Engines/Island_FPS_UE/Saved/IslandLandscape_BuiltData049B481444B190D88366568761115FD4.tmp' to '../../../../../Game_Engines/Island_FPS_UE/Content/FirstPersonBP/Maps/IslandLandscape_BuiltData.uasset'
+[2019.01.31-14.26.58:836][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.27.05:848][723]LogMaterial: Display: Missing cached shader map for material BogMyrtle_01_Billboard_Mat, compiling. 
+[2019.01.31-14.27.05:979][723]LogMaterial: Display: Missing cached shader map for material BogMyrtle_01_Fronds_Mat, compiling. 
+[2019.01.31-14.27.06:163][723]LogShaderCompilers: Display: Shaders left to compile 117
+[2019.01.31-14.27.06:188][723]LogShaderCompilers: Display: Shaders left to compile 107
+[2019.01.31-14.27.06:188][723]LogShaderCompilers: Display: Shaders left to compile 97
+[2019.01.31-14.27.06:188][723]LogStaticMesh: Building static mesh BogMyrtle_01...
+[2019.01.31-14.27.06:188][723]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.31-14.27.06:737][723]LogStaticMesh: Built static mesh [0.58s] /Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01.BogMyrtle_01
+[2019.01.31-14.27.10:404][723]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.31-14.27.12:701][723]LogShaderCompilers: Display: Shaders left to compile 204
+[2019.01.31-14.27.12:701][723]LogShaderCompilers: Display: Shaders left to compile 194
+[2019.01.31-14.27.13:128][723]LogShaderCompilers: Display: Shaders left to compile 184
+[2019.01.31-14.27.16:086][723]LogMaterial: Display: Missing cached shader map for material BogMyrtle_01_Fronds_Mat, compiling. 
+[2019.01.31-14.27.16:087][723]LogMaterial: Warning: D:\Game_Engines\Island_FPS_UE\Content\KiteDemo\Environments\Foliage\BogMyrtle_01\BogMyrtle_01_Fronds_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.31-14.27.16:087][723]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.01.31-14.27.16:098][723]LogMaterial: Display: Missing cached shader map for material BogMyrtle_01_Fronds_Mat, compiling. 
+[2019.01.31-14.27.16:099][723]LogMaterial: Warning: D:\Game_Engines\Island_FPS_UE\Content\KiteDemo\Environments\Foliage\BogMyrtle_01\BogMyrtle_01_Fronds_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.31-14.27.16:099][723]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.01.31-14.27.16:109][723]LogMaterial: Display: Missing cached shader map for material BogMyrtle_01_Fronds_Mat, compiling. 
+[2019.01.31-14.27.16:110][723]LogMaterial: Warning: D:\Game_Engines\Island_FPS_UE\Content\KiteDemo\Environments\Foliage\BogMyrtle_01\BogMyrtle_01_Fronds_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.31-14.27.16:110][723]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.01.31-14.27.16:114][723]LogMaterial: Display: Missing cached shader map for material BogMyrtle_01_Fronds_Mat, compiling. 
+[2019.01.31-14.27.16:115][723]LogMaterial: Warning: D:\Game_Engines\Island_FPS_UE\Content\KiteDemo\Environments\Foliage\BogMyrtle_01\BogMyrtle_01_Fronds_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.31-14.27.16:115][723]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.01.31-14.27.16:121][723]LogMaterial: Display: Missing cached shader map for material BogMyrtle_01_Billboard_Mat, compiling. 
+[2019.01.31-14.27.16:122][723]LogMaterial: Warning: D:\Game_Engines\Island_FPS_UE\Content\KiteDemo\Environments\Foliage\BogMyrtle_01\BogMyrtle_01_Billboard_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.31-14.27.16:122][723]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.01.31-14.27.16:127][723]LogMaterial: Display: Missing cached shader map for material BogMyrtle_01_Billboard_Mat, compiling. 
+[2019.01.31-14.27.16:128][723]LogMaterial: Warning: D:\Game_Engines\Island_FPS_UE\Content\KiteDemo\Environments\Foliage\BogMyrtle_01\BogMyrtle_01_Billboard_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.31-14.27.16:128][723]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2019.01.31-14.27.16:130][723]LogStaticMesh: Building static mesh BogMyrtle_01...
+[2019.01.31-14.27.16:348][723]LogStaticMesh: Built static mesh [0.22s] /Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01.BogMyrtle_01
+[2019.01.31-14.27.26:561][ 50]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat'
+[2019.01.31-14.27.26:561][ 50]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.uasset.
+[2019.01.31-14.27.26:561][ 50]LoadErrors: Error: /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01 : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat
+[2019.01.31-14.27.26:564][ 50]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat'
+[2019.01.31-14.27.26:564][ 50]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_01/MI_BogMyrtleBush_01_Billboard.uasset.
+[2019.01.31-14.27.26:564][ 50]LoadErrors: Error: /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/MI_BogMyrtleBush_01_Billboard : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat
+[2019.01.31-14.27.26:565][ 50]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat'
+[2019.01.31-14.27.26:566][ 50]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_01/MI_BogMyrtleBush_01_Billboard.uasset.
+[2019.01.31-14.27.26:609][ 50]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat'
+[2019.01.31-14.27.26:609][ 50]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.uasset.
+[2019.01.31-14.27.26:613][ 50]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat'
+[2019.01.31-14.27.26:613][ 50]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat.BogMyrtle_01_Fronds_Mat Referenced by BogMyrtleBush_01
+[2019.01.31-14.27.26:613][ 50]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat' while loading NULL.
+[2019.01.31-14.27.26:615][ 50]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat'
+[2019.01.31-14.27.26:615][ 50]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat.BogMyrtle_01_Billboard_Mat Referenced by MI_BogMyrtleBush_01_Billboard
+[2019.01.31-14.27.26:616][ 50]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat' while loading NULL.
+[2019.01.31-14.27.26:670][ 50]LogStaticMesh: Building static mesh BogMyrtleBush_01...
+[2019.01.31-14.27.26:670][ 50]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.31-14.27.27:149][ 50]LogStaticMesh: Built static mesh [0.48s] /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.BogMyrtleBush_01
+[2019.01.31-14.27.28:761][ 50]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.31-14.27.34:894][322]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat'
+[2019.01.31-14.27.34:894][322]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02.uasset.
+[2019.01.31-14.27.34:895][322]LoadErrors: Error: /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02 : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat
+[2019.01.31-14.27.34:897][322]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat'
+[2019.01.31-14.27.34:898][322]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_02/MI_BogMyrtleBush_02_Billboard.uasset.
+[2019.01.31-14.27.34:898][322]LoadErrors: Error: /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/MI_BogMyrtleBush_02_Billboard : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat
+[2019.01.31-14.27.34:898][322]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat'
+[2019.01.31-14.27.34:898][322]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_02/MI_BogMyrtleBush_02_Billboard.uasset.
+[2019.01.31-14.27.34:934][322]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat'
+[2019.01.31-14.27.34:935][322]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02.uasset.
+[2019.01.31-14.27.34:938][322]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat'
+[2019.01.31-14.27.34:938][322]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat.BogMyrtle_01_Fronds_Mat Referenced by BogMyrtleBush_02
+[2019.01.31-14.27.34:938][322]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat' while loading NULL.
+[2019.01.31-14.27.34:938][322]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat'
+[2019.01.31-14.27.34:938][322]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat' while loading NULL.
+[2019.01.31-14.27.34:939][322]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat'
+[2019.01.31-14.27.34:939][322]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Fronds_Mat' while loading NULL.
+[2019.01.31-14.27.34:940][322]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat'
+[2019.01.31-14.27.34:940][322]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat.BogMyrtle_01_Billboard_Mat Referenced by MI_BogMyrtleBush_02_Billboard
+[2019.01.31-14.27.34:940][322]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01_Billboard_Mat' while loading NULL.
+[2019.01.31-14.27.35:038][322]LogStaticMesh: Building static mesh BogMyrtleBush_02...
+[2019.01.31-14.27.35:038][322]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.31-14.27.35:963][322]LogStaticMesh: Built static mesh [0.93s] /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02.BogMyrtleBush_02
+[2019.01.31-14.27.40:133][322]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.31-14.27.55:567][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.28.10:785][865]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.31-14.28.11:183][865]LogMaterial: Display: Missing cached shader map for material M_DeadLeaves, compiling. 
+[2019.01.31-14.28.11:184][865]LogMaterial: Warning: D:\Game_Engines\Island_FPS_UE\Content\KiteDemo\Environments\Foliage\Leaves\M_DeadLeaves.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.31-14.28.11:184][865]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.01.31-14.28.11:274][865]LogMaterial: Display: Missing cached shader map for material M_DeadLeaves, compiling. 
+[2019.01.31-14.28.11:275][865]LogMaterial: Warning: D:\Game_Engines\Island_FPS_UE\Content\KiteDemo\Environments\Foliage\Leaves\M_DeadLeaves.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.31-14.28.11:275][865]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.01.31-14.28.11:282][865]LogMaterial: Display: Missing cached shader map for material M_DeadLeaves, compiling. 
+[2019.01.31-14.28.11:282][865]LogMaterial: Warning: D:\Game_Engines\Island_FPS_UE\Content\KiteDemo\Environments\Foliage\Leaves\M_DeadLeaves.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.31-14.28.11:282][865]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.01.31-14.28.11:327][865]LogStaticMesh: Building static mesh SM_DeadLeaves...
+[2019.01.31-14.28.11:501][865]LogStaticMesh: Built static mesh [0.18s] /Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves.SM_DeadLeaves
+[2019.01.31-14.28.11:566][865]LogStaticMesh: Building static mesh SM_DeadLeaves_Flat...
+[2019.01.31-14.28.11:747][865]LogStaticMesh: Built static mesh [0.18s] /Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves_Flat.SM_DeadLeaves_Flat
+[2019.01.31-14.28.57:043][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.30.22:445][842]LogTexture: Display: Building textures: T_AlpinePatch001_N (BC5, 8192X8192)
+[2019.01.31-14.30.22:550][842]LogTexture: Display: Building textures: T_AlpinePatch001_D_R (AutoDXT, 8192X8192)

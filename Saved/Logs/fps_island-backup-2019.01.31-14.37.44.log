@@ -1,0 +1,1009 @@
+﻿Log file open, 01/31/19 15:33:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: fps_island
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.159091
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.561s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.082s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Engine.ini]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Engine.ini]
+[2019.01.31-14.33.49:830][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Engine.ini]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Engine.ini]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.31-14.33.49:830][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.31-14.33.49:831][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.31-14.33.49:831][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.31-14.33.49:831][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.31-14.33.49:831][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.31-14.33.49:831][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.31-14.33.49:831][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.31-14.33.49:831][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.31-14.33.49:831][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.31-14.33.49:831][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Engine.ini]
+[2019.01.31-14.33.49:831][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Engine.ini]
+[2019.01.31-14.33.49:833][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.31-14.33.49:833][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.31-14.33.49:834][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.31-14.33.49:834][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.31-14.33.49:834][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.31-14.33.49:887][  0]LogHAL: Display: Platform has ~ 16 GB [17057173504 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.31-14.33.49:887][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.31-14.33.49:887][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.31-14.33.49:887][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.33.49:887][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Scalability.ini]
+[2019.01.31-14.33.49:888][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.31-14.33.49:888][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.31-14.33.49:888][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Game_Engines/Island_FPS_UE/Saved/Config/Windows/Engine.ini]
+[2019.01.31-14.33.49:888][  0]LogInit: Computer: DESKTOP-ISRVTHC
+[2019.01.31-14.33.49:888][  0]LogInit: User: alex
+[2019.01.31-14.33.49:888][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.01.31-14.33.49:888][  0]LogInit: High frequency timer resolution =2.835936 MHz
+[2019.01.31-14.33.49:888][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.31-14.33.49:888][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.31-14.33.49:888][  0]LogMemory: Process Physical Memory: 102.43 MB used, 102.43 MB peak
+[2019.01.31-14.33.49:888][  0]LogMemory: Process Virtual Memory: 84.51 MB used, 84.51 MB peak
+[2019.01.31-14.33.49:888][  0]LogMemory: Physical Memory: 2565.51 MB used,  13701.48 MB free, 16266.99 MB total
+[2019.01.31-14.33.49:888][  0]LogMemory: Virtual Memory: 4623.98 MB used,  134213104.00 MB free, 134217728.00 MB total
+[2019.01.31-14.33.49:914][  0]LogInit: Using OS detected language (de-DE).
+[2019.01.31-14.33.49:914][  0]LogInit: Using OS detected locale (de-DE).
+[2019.01.31-14.33.49:915][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so the 'de' localization will be used.
+[2019.01.31-14.33.49:917][  0]LogStreaming: Display: Took  0.003s to InitEngineTextLocalization.
+[2019.01.31-14.33.49:917][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.31-14.33.49:935][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.31-14.33.49:935][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.31-14.33.50:161][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.31-14.33.50:162][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.31-14.33.50:198][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.01.31-14.33.50:198][  0]LogD3D11RHI:       4064/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.31-14.33.50:207][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.01.31-14.33.50:207][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.31-14.33.50:210][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.31-14.33.50:210][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.31-14.33.50:210][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.31-14.33.50:243][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.31-14.33.50:243][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.01.31-14.33.50:243][  0]LogWindows: EnumDisplayDevices:
+[2019.01.31-14.33.50:243][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.01.31-14.33.50:243][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.01.31-14.33.50:244][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.01.31-14.33.50:244][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.01.31-14.33.50:244][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.01.31-14.33.50:244][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.01.31-14.33.50:244][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.01.31-14.33.50:244][  0]LogRHI: Texture pool is 2845 MB (70% of 4064 MB)
+[2019.01.31-14.33.50:262][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.31-14.33.50:282][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.31-14.33.50:605][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.31-14.33.50:618][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.31-14.33.50:630][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.31-14.33.50:642][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.31-14.33.50:655][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.31-14.33.50:667][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.31-14.33.50:680][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.31-14.33.50:691][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.31-14.33.50:697][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:767][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.31-14.33.50:769][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.31-14.33.50:827][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.31-14.33.50:827][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.31-14.33.50:849][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.31-14.33.50:849][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.31-14.33.50:860][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.31-14.33.50:872][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.31-14.33.50:884][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.31-14.33.50:896][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.31-14.33.50:938][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.31-14.33.50:938][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.31-14.33.50:939][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.31-14.33.50:981][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (../../../../../Game_Engines/Island_FPS_UE/Intermediate/Shaders/WorkingDirectory/14384/).
+[2019.01.31-14.33.50:981][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alex-/AppData/Local/Temp/UnrealShaderWorkingDir/6AC6452F457773E06F2441BE35071363/'.
+[2019.01.31-14.33.50:983][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.31-14.33.50:983][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.31-14.33.50:983][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.31-14.33.51:479][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.31-14.33.51:532][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/alex-/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.31-14.33.51:533][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alex-/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.31-14.33.51:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Game_Engines/Island_FPS_UE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.31-14.33.51:533][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.31-14.33.51:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Game_Engines/Island_FPS_UE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.31-14.33.51:533][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.31-14.33.51:544][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.31-14.33.51:544][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.31-14.33.51:544][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.31-14.33.51:556][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alex-/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.31-14.33.51:556][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.31-14.33.51:556][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.31-14.33.51:580][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.31-14.33.51:582][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.31-14.33.51:582][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.31-14.33.51:676][  0]LogAssetRegistry: FAssetRegistry took 0.0391 seconds to start up
+[2019.01.31-14.33.51:989][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.31-14.33.52:152][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.31-14.33.52:155][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.31-14.33.52:155][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.31-14.33.52:155][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.31-14.33.52:155][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.31-14.33.52:169][  0]LogNetVersion: fps_island 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1149664083)
+[2019.01.31-14.33.53:250][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.570155 seconds
+[2019.01.31-14.33.53:256][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.31-14.33.53:256][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.31-14.33.53:256][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.31-14.33.54:158][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.31-14.33.54:172][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.31-14.33.54:896][  0]SourceControl: Source control is disabled
+[2019.01.31-14.33.54:896][  0]SourceControl: Source control is disabled
+[2019.01.31-14.33.54:898][  0]SourceControl: Source control is disabled
+[2019.01.31-14.33.54:899][  0]SourceControl: Source control is disabled
+[2019.01.31-14.33.55:066][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.31-14.33.55:118][  0]LogOcInput: OculusInput pre-init called
+[2019.01.31-14.33.55:250][  0]LogEngine: Initializing Engine...
+[2019.01.31-14.33.55:250][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.31-14.33.55:252][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.31-14.33.55:252][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.31-14.33.55:252][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.31-14.33.55:252][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.31-14.33.55:500][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.31-14.33.55:512][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.31-14.33.55:534][  0]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.31-14.33.55:707][  0]LogInit: FAudioDevice initialized.
+[2019.01.31-14.33.55:707][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.31-14.33.55:841][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/alex-/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.31-14.33.55:846][  0]LogInit: Texture streaming: Enabled
+[2019.01.31-14.33.55:858][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.31-14.33.55:936][  0]LogInit: Transaction tracking system initialized
+[2019.01.31-14.33.55:955][  0]BlueprintLog: New page: Editor Load
+[2019.01.31-14.33.56:014][  0]LocalizationService: Localization service is disabled
+[2019.01.31-14.33.57:147][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.31-14.33.57:147][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.31-14.33.57:147][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.31-14.33.57:147][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.31-14.33.57:147][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.31-14.33.57:147][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.31-14.33.57:147][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.31-14.33.57:255][  0]LogFileCache: Scanning file cache for directory 'D:/Game_Engines/Island_FPS_UE/Content/' took 0.05s
+[2019.01.31-14.33.57:255][  0]SourceControl: Source control is disabled
+[2019.01.31-14.33.57:255][  0]Cmd: MAP LOAD FILE="../../../../../Game_Engines/Island_FPS_UE/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.31-14.33.57:274][  0]LightingResults: New page: Lighting Build
+[2019.01.31-14.33.57:276][  0]MapCheck: New page: Map Check
+[2019.01.31-14.33.57:276][  0]LightingResults: New page: Lighting Build
+[2019.01.31-14.34.00:346][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.01.31-14.34.00:839][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.31-14.34.00:862][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.31-14.34.00:862][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,092ms to complete.
+[2019.01.31-14.34.00:862][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 3.607
+[2019.01.31-14.34.01:780][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-14.34.01:788][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-14.34.01:795][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-14.34.01:803][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.31-14.34.01:861][  0]LogCollectionManager: Loaded 0 collections in 0.000810 seconds
+[2019.01.31-14.34.01:942][  0]LogFileCache: Scanning file cache for directory 'D:/Game_Engines/Island_FPS_UE/Saved/Collections/' took 0.01s
+[2019.01.31-14.34.01:943][  0]LogFileCache: Scanning file cache for directory 'D:/Game_Engines/Island_FPS_UE/Content/Developers/alex/Collections/' took 0.00s
+[2019.01.31-14.34.01:943][  0]LogFileCache: Scanning file cache for directory 'D:/Game_Engines/Island_FPS_UE/Content/Collections/' took 0.00s
+[2019.01.31-14.34.01:943][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.31-14.34.01:952][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2651 classes and 620 folders.
+[2019.01.31-14.34.02:008][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.31-14.34.02:066][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:154][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:171][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:187][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:211][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:297][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:324][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:333][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:372][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:381][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:422][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:469][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.02:525][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.31-14.34.03:382][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.31-14.34.03:460][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.31-14.34.04:539][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.31-14.34.04:542][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.31-14.34.04:603][  0]LogSlate: Took 0.017538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.31-14.34.04:978][  0]LogRenderer: Reallocating scene render targets to support 876x484 Format 9 NumSamples 1 (Frame:1).
+[2019.01.31-14.34.05:380][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.31-14.34.05:380][  0]LogLoad: (Engine Initialization) Total time: 19.00 seconds
+[2019.01.31-14.34.05:380][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.31-14.34.05:399][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.31-14.34.05:538][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.01.31-14.34.05:634][  0]LogSlate: Took 0.060712 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.31-14.34.06:084][  3]LogAssetRegistry: Asset discovery search completed in 14.4304 seconds
+[2019.01.31-14.34.06:087][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.31-14.34.06:087][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000098 seconds (updated 0 objects)
+[2019.01.31-14.34.10:738][271]LogFileCache: Retrieving MD5 hashes for directory 'D:/Game_Engines/Island_FPS_UE/Content/' took 5.33s
+[2019.01.31-14.34.13:856][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.31-14.34.23:469][ 14]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.31-14.34.23:696][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/Architecture/M_CycWall_01'
+[2019.01.31-14.34.23:697][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/Architecture/M_CycWall_01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.23:697][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/LevelContent/Architecture/M_CycWall_01
+[2019.01.31-14.34.25:576][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Cliffs/Cliff01/SM_Cliff01'
+[2019.01.31-14.34.25:576][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Cliffs/Cliff01/SM_Cliff01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.25:576][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Cliffs/Cliff01/SM_Cliff01
+[2019.01.31-14.34.25:576][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01'
+[2019.01.31-14.34.25:576][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.25:576][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01
+[2019.01.31-14.34.25:577][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01'
+[2019.01.31-14.34.25:577][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.25:577][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01
+[2019.01.31-14.34.25:577][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02'
+[2019.01.31-14.34.25:577][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.25:577][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02
+[2019.01.31-14.34.26:227][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise'
+[2019.01.31-14.34.26:228][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01.uasset.
+[2019.01.31-14.34.26:228][ 14]LoadErrors: Error: /Game/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01 : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise
+[2019.01.31-14.34.26:228][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise'
+[2019.01.31-14.34.26:228][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Environments/Foliage/Flowers/Buttercup/M_Buttercup_Patch_01.uasset.
+[2019.01.31-14.34.26:233][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01'
+[2019.01.31-14.34.26:233][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:233][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01
+[2019.01.31-14.34.26:868][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves'
+[2019.01.31-14.34.26:868][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:868][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves
+[2019.01.31-14.34.26:868][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves_Flat'
+[2019.01.31-14.34.26:869][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves_Flat' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:869][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves_Flat
+[2019.01.31-14.34.26:871][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Boulder_05a/SM_Boulder05a'
+[2019.01.31-14.34.26:871][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Boulder_05a/SM_Boulder05a' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:871][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Boulder_05a/SM_Boulder05a
+[2019.01.31-14.34.26:871][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock001/SM_GroundRevealRock001'
+[2019.01.31-14.34.26:871][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock001/SM_GroundRevealRock001' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:871][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/GroundRevealRock001/SM_GroundRevealRock001
+[2019.01.31-14.34.26:871][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/SM_GroundRevealRock002'
+[2019.01.31-14.34.26:871][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/SM_GroundRevealRock002' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:871][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/GroundRevealRock002/SM_GroundRevealRock002
+[2019.01.31-14.34.26:871][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_001'
+[2019.01.31-14.34.26:872][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_001' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:872][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_001
+[2019.01.31-14.34.26:872][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_002'
+[2019.01.31-14.34.26:872][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_002' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:872][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_002
+[2019.01.31-14.34.26:872][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_003'
+[2019.01.31-14.34.26:872][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_003' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:872][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_003
+[2019.01.31-14.34.26:872][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_004'
+[2019.01.31-14.34.26:873][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_004' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:873][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_004
+[2019.01.31-14.34.26:873][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/SM_LargePlainsBoulder002'
+[2019.01.31-14.34.26:873][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/SM_LargePlainsBoulder002' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:873][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/SM_LargePlainsBoulder002
+[2019.01.31-14.34.26:874][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_001/Medium_Boulder_001'
+[2019.01.31-14.34.26:874][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_001/Medium_Boulder_001' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:874][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Medium_Boulder_001/Medium_Boulder_001
+[2019.01.31-14.34.26:874][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_002/Medium_Boulder_LowPoly'
+[2019.01.31-14.34.26:874][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_002/Medium_Boulder_LowPoly' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:874][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Medium_Boulder_002/Medium_Boulder_LowPoly
+[2019.01.31-14.34.26:874][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock'
+[2019.01.31-14.34.26:874][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:874][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock
+[2019.01.31-14.34.26:874][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock_Closed'
+[2019.01.31-14.34.26:875][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock_Closed' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:875][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock_Closed
+[2019.01.31-14.34.26:875][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/River_Rock_01/SM_River_Rock_01'
+[2019.01.31-14.34.26:875][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/River_Rock_01/SM_River_Rock_01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:875][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/River_Rock_01/SM_River_Rock_01
+[2019.01.31-14.34.26:875][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001'
+[2019.01.31-14.34.26:875][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:875][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Scree001/Scree_001
+[2019.01.31-14.34.26:875][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_A'
+[2019.01.31-14.34.26:875][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_A' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:875][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_A
+[2019.01.31-14.34.26:876][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_B'
+[2019.01.31-14.34.26:876][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_B' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:876][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_B
+[2019.01.31-14.34.26:876][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_Bend'
+[2019.01.31-14.34.26:876][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_Bend' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:876][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_Bend
+[2019.01.31-14.34.26:876][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_NEW'
+[2019.01.31-14.34.26:876][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_NEW' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:877][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_NEW
+[2019.01.31-14.34.26:877][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002a'
+[2019.01.31-14.34.26:877][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002a' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:877][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002a
+[2019.01.31-14.34.26:877][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002b'
+[2019.01.31-14.34.26:877][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002b' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.26:877][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002b
+[2019.01.31-14.34.27:840][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02'
+[2019.01.31-14.34.27:840][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.27:841][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02
+[2019.01.31-14.34.28:683][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/Architecture/M_CycWall_01'
+[2019.01.31-14.34.28:683][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/Architecture/M_CycWall_01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:683][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/Architecture/SM_1Meter_01'
+[2019.01.31-14.34.28:683][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/Architecture/SM_1Meter_01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:684][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/LevelContent/Architecture/SM_1Meter_01
+[2019.01.31-14.34.28:684][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/Architecture/SM_CycRoom_01'
+[2019.01.31-14.34.28:684][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/Architecture/SM_CycRoom_01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:684][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/LevelContent/Architecture/SM_CycRoom_01
+[2019.01.31-14.34.28:684][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2019.01.31-14.34.28:684][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:684][ 14]LoadErrors: Error: /Game/KiteDemo/Maps/Overview : Can't find file for asset. /Game/KiteDemo/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight
+[2019.01.31-14.34.28:685][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Cliffs/Cliff01/SM_Cliff01'
+[2019.01.31-14.34.28:685][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Cliffs/Cliff01/SM_Cliff01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:685][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01'
+[2019.01.31-14.34.28:685][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:685][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01'
+[2019.01.31-14.34.28:686][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:686][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02'
+[2019.01.31-14.34.28:686][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:686][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01'
+[2019.01.31-14.34.28:686][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:687][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves'
+[2019.01.31-14.34.28:687][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:687][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves_Flat'
+[2019.01.31-14.34.28:688][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves_Flat' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:688][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Boulder_05a/SM_Boulder05a'
+[2019.01.31-14.34.28:688][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Boulder_05a/SM_Boulder05a' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:688][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock001/SM_GroundRevealRock001'
+[2019.01.31-14.34.28:688][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock001/SM_GroundRevealRock001' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:688][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/SM_GroundRevealRock002'
+[2019.01.31-14.34.28:688][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/SM_GroundRevealRock002' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:688][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_001'
+[2019.01.31-14.34.28:688][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_001' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:689][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_002'
+[2019.01.31-14.34.28:689][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_002' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:689][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_003'
+[2019.01.31-14.34.28:689][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_003' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:689][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_004'
+[2019.01.31-14.34.28:689][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_004' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:689][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/SM_LargePlainsBoulder002'
+[2019.01.31-14.34.28:689][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/SM_LargePlainsBoulder002' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:689][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_001/Medium_Boulder_001'
+[2019.01.31-14.34.28:690][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_001/Medium_Boulder_001' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:690][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_002/Medium_Boulder_LowPoly'
+[2019.01.31-14.34.28:690][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_002/Medium_Boulder_LowPoly' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:690][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock'
+[2019.01.31-14.34.28:690][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:690][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock_Closed'
+[2019.01.31-14.34.28:690][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock_Closed' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:690][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/River_Rock_01/SM_River_Rock_01'
+[2019.01.31-14.34.28:690][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/River_Rock_01/SM_River_Rock_01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:691][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001'
+[2019.01.31-14.34.28:691][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:691][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_A'
+[2019.01.31-14.34.28:691][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_A' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:691][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_B'
+[2019.01.31-14.34.28:691][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_B' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:691][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_Bend'
+[2019.01.31-14.34.28:691][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_Bend' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:692][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_NEW'
+[2019.01.31-14.34.28:692][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_NEW' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:692][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002a'
+[2019.01.31-14.34.28:692][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002a' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:692][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002b'
+[2019.01.31-14.34.28:692][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002b' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:692][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02'
+[2019.01.31-14.34.28:693][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:693][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/Architecture/SM_1Meter_01'
+[2019.01.31-14.34.28:693][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/Architecture/SM_1Meter_01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:694][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/Architecture/SM_CycRoom_01'
+[2019.01.31-14.34.28:694][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/Architecture/SM_CycRoom_01' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:694][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2019.01.31-14.34.28:694][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading ../../../../../Game_Engines/Island_FPS_UE/Content/KiteDemo/Maps/Overview.umap.
+[2019.01.31-14.34.28:695][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/Architecture/M_CycWall_01'
+[2019.01.31-14.34.28:695][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/Architecture/M_CycWall_01' while loading NULL.
+[2019.01.31-14.34.28:695][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Cliffs/Cliff01/SM_Cliff01'
+[2019.01.31-14.34.28:695][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Cliffs/Cliff01/SM_Cliff01' while loading NULL.
+[2019.01.31-14.34.28:695][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01'
+[2019.01.31-14.34.28:695][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01' while loading NULL.
+[2019.01.31-14.34.28:695][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01'
+[2019.01.31-14.34.28:696][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01' while loading NULL.
+[2019.01.31-14.34.28:696][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02'
+[2019.01.31-14.34.28:696][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02' while loading NULL.
+[2019.01.31-14.34.28:696][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01'
+[2019.01.31-14.34.28:696][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01' while loading NULL.
+[2019.01.31-14.34.28:696][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves'
+[2019.01.31-14.34.28:696][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves' while loading NULL.
+[2019.01.31-14.34.28:696][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves_Flat'
+[2019.01.31-14.34.28:696][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves_Flat' while loading NULL.
+[2019.01.31-14.34.28:696][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Boulder_05a/SM_Boulder05a'
+[2019.01.31-14.34.28:696][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Boulder_05a/SM_Boulder05a' while loading NULL.
+[2019.01.31-14.34.28:696][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock001/SM_GroundRevealRock001'
+[2019.01.31-14.34.28:697][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock001/SM_GroundRevealRock001' while loading NULL.
+[2019.01.31-14.34.28:697][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/SM_GroundRevealRock002'
+[2019.01.31-14.34.28:697][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/SM_GroundRevealRock002' while loading NULL.
+[2019.01.31-14.34.28:697][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_001'
+[2019.01.31-14.34.28:697][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_001' while loading NULL.
+[2019.01.31-14.34.28:697][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_002'
+[2019.01.31-14.34.28:697][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_002' while loading NULL.
+[2019.01.31-14.34.28:697][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_003'
+[2019.01.31-14.34.28:697][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_003' while loading NULL.
+[2019.01.31-14.34.28:697][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_004'
+[2019.01.31-14.34.28:697][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_004' while loading NULL.
+[2019.01.31-14.34.28:697][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/SM_LargePlainsBoulder002'
+[2019.01.31-14.34.28:698][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/SM_LargePlainsBoulder002' while loading NULL.
+[2019.01.31-14.34.28:698][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_001/Medium_Boulder_001'
+[2019.01.31-14.34.28:698][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_001/Medium_Boulder_001' while loading NULL.
+[2019.01.31-14.34.28:698][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_002/Medium_Boulder_LowPoly'
+[2019.01.31-14.34.28:698][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_002/Medium_Boulder_LowPoly' while loading NULL.
+[2019.01.31-14.34.28:698][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock'
+[2019.01.31-14.34.28:698][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock' while loading NULL.
+[2019.01.31-14.34.28:698][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock_Closed'
+[2019.01.31-14.34.28:698][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock_Closed' while loading NULL.
+[2019.01.31-14.34.28:698][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/River_Rock_01/SM_River_Rock_01'
+[2019.01.31-14.34.28:698][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/River_Rock_01/SM_River_Rock_01' while loading NULL.
+[2019.01.31-14.34.28:698][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001'
+[2019.01.31-14.34.28:698][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001' while loading NULL.
+[2019.01.31-14.34.28:699][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_A'
+[2019.01.31-14.34.28:699][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_A' while loading NULL.
+[2019.01.31-14.34.28:699][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_B'
+[2019.01.31-14.34.28:699][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_B' while loading NULL.
+[2019.01.31-14.34.28:699][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_Bend'
+[2019.01.31-14.34.28:699][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_Bend' while loading NULL.
+[2019.01.31-14.34.28:699][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_NEW'
+[2019.01.31-14.34.28:699][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_NEW' while loading NULL.
+[2019.01.31-14.34.28:699][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002a'
+[2019.01.31-14.34.28:699][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002a' while loading NULL.
+[2019.01.31-14.34.28:699][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002b'
+[2019.01.31-14.34.28:700][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002b' while loading NULL.
+[2019.01.31-14.34.28:700][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02'
+[2019.01.31-14.34.28:700][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02' while loading NULL.
+[2019.01.31-14.34.28:700][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/Architecture/M_CycWall_01'
+[2019.01.31-14.34.28:700][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/Architecture/M_CycWall_01' while loading NULL.
+[2019.01.31-14.34.28:700][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/Architecture/SM_1Meter_01'
+[2019.01.31-14.34.28:700][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/Architecture/SM_1Meter_01' while loading NULL.
+[2019.01.31-14.34.28:700][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/Architecture/SM_CycRoom_01'
+[2019.01.31-14.34.28:700][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/Architecture/SM_CycRoom_01' while loading NULL.
+[2019.01.31-14.34.28:700][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2019.01.31-14.34.28:700][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2019.01.31-14.34.28:700][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Cliffs/Cliff01/SM_Cliff01'
+[2019.01.31-14.34.28:700][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Cliffs/Cliff01/SM_Cliff01' while loading NULL.
+[2019.01.31-14.34.28:701][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01'
+[2019.01.31-14.34.28:701][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01' while loading NULL.
+[2019.01.31-14.34.28:701][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01'
+[2019.01.31-14.34.28:701][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01' while loading NULL.
+[2019.01.31-14.34.28:701][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02'
+[2019.01.31-14.34.28:701][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02' while loading NULL.
+[2019.01.31-14.34.28:701][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01'
+[2019.01.31-14.34.28:701][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01' while loading NULL.
+[2019.01.31-14.34.28:701][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves'
+[2019.01.31-14.34.28:701][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves' while loading NULL.
+[2019.01.31-14.34.28:701][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves_Flat'
+[2019.01.31-14.34.28:701][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves_Flat' while loading NULL.
+[2019.01.31-14.34.28:702][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Boulder_05a/SM_Boulder05a'
+[2019.01.31-14.34.28:702][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Boulder_05a/SM_Boulder05a' while loading NULL.
+[2019.01.31-14.34.28:702][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock001/SM_GroundRevealRock001'
+[2019.01.31-14.34.28:702][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock001/SM_GroundRevealRock001' while loading NULL.
+[2019.01.31-14.34.28:702][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/SM_GroundRevealRock002'
+[2019.01.31-14.34.28:702][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/SM_GroundRevealRock002' while loading NULL.
+[2019.01.31-14.34.28:702][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_001'
+[2019.01.31-14.34.28:702][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_001' while loading NULL.
+[2019.01.31-14.34.28:702][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_002'
+[2019.01.31-14.34.28:702][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_002' while loading NULL.
+[2019.01.31-14.34.28:702][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_003'
+[2019.01.31-14.34.28:703][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_003' while loading NULL.
+[2019.01.31-14.34.28:703][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_004'
+[2019.01.31-14.34.28:703][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_004' while loading NULL.
+[2019.01.31-14.34.28:703][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/SM_LargePlainsBoulder002'
+[2019.01.31-14.34.28:703][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/SM_LargePlainsBoulder002' while loading NULL.
+[2019.01.31-14.34.28:703][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_001/Medium_Boulder_001'
+[2019.01.31-14.34.28:703][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_001/Medium_Boulder_001' while loading NULL.
+[2019.01.31-14.34.28:703][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_002/Medium_Boulder_LowPoly'
+[2019.01.31-14.34.28:703][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_002/Medium_Boulder_LowPoly' while loading NULL.
+[2019.01.31-14.34.28:703][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock'
+[2019.01.31-14.34.28:703][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock' while loading NULL.
+[2019.01.31-14.34.28:703][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock_Closed'
+[2019.01.31-14.34.28:704][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock_Closed' while loading NULL.
+[2019.01.31-14.34.28:704][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/River_Rock_01/SM_River_Rock_01'
+[2019.01.31-14.34.28:704][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/River_Rock_01/SM_River_Rock_01' while loading NULL.
+[2019.01.31-14.34.28:704][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001'
+[2019.01.31-14.34.28:704][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001' while loading NULL.
+[2019.01.31-14.34.28:704][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_A'
+[2019.01.31-14.34.28:704][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_A' while loading NULL.
+[2019.01.31-14.34.28:704][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_B'
+[2019.01.31-14.34.28:704][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_B' while loading NULL.
+[2019.01.31-14.34.28:704][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_Bend'
+[2019.01.31-14.34.28:704][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_Bend' while loading NULL.
+[2019.01.31-14.34.28:705][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_NEW'
+[2019.01.31-14.34.28:705][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_NEW' while loading NULL.
+[2019.01.31-14.34.28:705][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002a'
+[2019.01.31-14.34.28:705][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002a' while loading NULL.
+[2019.01.31-14.34.28:705][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002b'
+[2019.01.31-14.34.28:705][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002b' while loading NULL.
+[2019.01.31-14.34.28:705][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02'
+[2019.01.31-14.34.28:705][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02' while loading NULL.
+[2019.01.31-14.34.28:705][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/Architecture/SM_1Meter_01'
+[2019.01.31-14.34.28:705][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/Architecture/SM_1Meter_01' while loading NULL.
+[2019.01.31-14.34.28:705][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/Architecture/SM_CycRoom_01'
+[2019.01.31-14.34.28:705][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/Architecture/SM_CycRoom_01' while loading NULL.
+[2019.01.31-14.34.28:706][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2019.01.31-14.34.28:706][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2019.01.31-14.34.29:122][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise'
+[2019.01.31-14.34.29:122][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise.T_SwirlNoise Referenced by MaterialExpressionTextureSample_7
+[2019.01.31-14.34.29:122][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/T_SwirlNoise' while loading NULL.
+[2019.01.31-14.34.30:926][ 14]LogTexture: Display: Building textures: T_Grass_Blobby_Height_01 (AutoDXT, 2048X2048)
+[2019.01.31-14.34.30:926][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2019.01.31-14.34.30:927][ 14]LoadErrors: Failed to load /Game/KiteDemo/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight Referenced by SkyLight_1
+[2019.01.31-14.34.30:927][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2019.01.31-14.34.30:927][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01'
+[2019.01.31-14.34.30:927][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01.BogMyrtle_01 Referenced by BogMyrtle_01_5
+[2019.01.31-14.34.30:927][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtle_01/BogMyrtle_01' while loading NULL.
+[2019.01.31-14.34.30:928][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01'
+[2019.01.31-14.34.30:928][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01.BogMyrtleBush_01 Referenced by BogMyrtleBush_01_8
+[2019.01.31-14.34.30:928][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_01/BogMyrtleBush_01' while loading NULL.
+[2019.01.31-14.34.30:928][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02'
+[2019.01.31-14.34.30:928][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02.BogMyrtleBush_02 Referenced by BogMyrtleBush_02_11
+[2019.01.31-14.34.30:928][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/BogMyrtleBush_02/BogMyrtleBush_02' while loading NULL.
+[2019.01.31-14.34.30:929][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02'
+[2019.01.31-14.34.30:929][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02.HillTree_Tall_02 Referenced by HillTree_Tall_02_50
+[2019.01.31-14.34.30:929][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02' while loading NULL.
+[2019.01.31-14.34.30:929][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_001'
+[2019.01.31-14.34.30:929][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_001.LargeVolcanicRock_001 Referenced by LargeVolcanicRock_001_10
+[2019.01.31-14.34.30:929][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_001' while loading NULL.
+[2019.01.31-14.34.30:930][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_002'
+[2019.01.31-14.34.30:930][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_002.LargeVolcanicRock_002 Referenced by LargeVolcanicRock_002_13
+[2019.01.31-14.34.30:930][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_002' while loading NULL.
+[2019.01.31-14.34.30:930][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_003'
+[2019.01.31-14.34.30:930][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_003.LargeVolcanicRock_003 Referenced by LargeVolcanicRock_003_16
+[2019.01.31-14.34.30:930][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_003' while loading NULL.
+[2019.01.31-14.34.30:930][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_004'
+[2019.01.31-14.34.30:930][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_004.LargeVolcanicRock_004 Referenced by LargeVolcanicRock_004_19
+[2019.01.31-14.34.30:930][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_004' while loading NULL.
+[2019.01.31-14.34.30:931][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_001/Medium_Boulder_001'
+[2019.01.31-14.34.30:931][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Medium_Boulder_001/Medium_Boulder_001.Medium_Boulder_001 Referenced by Medium_Boulder_001_70
+[2019.01.31-14.34.30:931][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_001/Medium_Boulder_001' while loading NULL.
+[2019.01.31-14.34.30:931][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_002/Medium_Boulder_LowPoly'
+[2019.01.31-14.34.30:932][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Medium_Boulder_002/Medium_Boulder_LowPoly.Medium_Boulder_LowPoly Referenced by Medium_Boulder_LowPoly_73
+[2019.01.31-14.34.30:932][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Medium_Boulder_002/Medium_Boulder_LowPoly' while loading NULL.
+[2019.01.31-14.34.30:932][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001'
+[2019.01.31-14.34.30:932][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Scree001/Scree_001.Scree_001 Referenced by Scree_001_31
+[2019.01.31-14.34.30:933][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001' while loading NULL.
+[2019.01.31-14.34.30:933][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_A'
+[2019.01.31-14.34.30:933][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_A.Scree_001_A Referenced by Scree_001_A_34
+[2019.01.31-14.34.30:933][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_A' while loading NULL.
+[2019.01.31-14.34.30:933][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_B'
+[2019.01.31-14.34.30:934][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_B.Scree_001_B Referenced by Scree_001_B_40
+[2019.01.31-14.34.30:934][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_B' while loading NULL.
+[2019.01.31-14.34.30:934][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/Architecture/SM_1Meter_01'
+[2019.01.31-14.34.30:934][ 14]LoadErrors: Failed to load /Game/KiteDemo/LevelContent/Architecture/SM_1Meter_01.SM_1Meter_01 Referenced by SM_1Meter_01_10
+[2019.01.31-14.34.30:934][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/Architecture/SM_1Meter_01' while loading NULL.
+[2019.01.31-14.34.30:934][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/Architecture/SM_CycRoom_01'
+[2019.01.31-14.34.30:934][ 14]LoadErrors: Failed to load /Game/KiteDemo/LevelContent/Architecture/SM_CycRoom_01.SM_CycRoom_01 Referenced by SM_AssetPlatform2_4
+[2019.01.31-14.34.30:935][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/Architecture/SM_CycRoom_01' while loading NULL.
+[2019.01.31-14.34.30:935][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/LevelContent/Architecture/M_CycWall_01'
+[2019.01.31-14.34.30:935][ 14]LoadErrors: Failed to load /Game/KiteDemo/LevelContent/Architecture/M_CycWall_01.M_CycWall_01 Referenced by SM_AssetPlatform2_4
+[2019.01.31-14.34.30:935][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/LevelContent/Architecture/M_CycWall_01' while loading NULL.
+[2019.01.31-14.34.30:935][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Boulder_05a/SM_Boulder05a'
+[2019.01.31-14.34.30:935][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Boulder_05a/SM_Boulder05a.SM_Boulder05a Referenced by SM_Boulder05a_79
+[2019.01.31-14.34.30:936][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Boulder_05a/SM_Boulder05a' while loading NULL.
+[2019.01.31-14.34.30:936][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves'
+[2019.01.31-14.34.30:936][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves.SM_DeadLeaves Referenced by SM_DeadLeaves_26
+[2019.01.31-14.34.30:937][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves' while loading NULL.
+[2019.01.31-14.34.30:937][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves_Flat'
+[2019.01.31-14.34.30:937][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves_Flat.SM_DeadLeaves_Flat Referenced by SM_DeadLeaves_Flat_29
+[2019.01.31-14.34.30:937][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Leaves/SM_DeadLeaves_Flat' while loading NULL.
+[2019.01.31-14.34.30:938][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01'
+[2019.01.31-14.34.30:938][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01.SM_FieldScabious_01 Referenced by SM_FieldScabious_01_41
+[2019.01.31-14.34.30:938][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Foliage/Flowers/FieldScabious/SM_FieldScabious_01' while loading NULL.
+[2019.01.31-14.34.30:939][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock001/SM_GroundRevealRock001'
+[2019.01.31-14.34.30:939][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/GroundRevealRock001/SM_GroundRevealRock001.SM_GroundRevealRock001 Referenced by SM_GroundRevealRock001_64
+[2019.01.31-14.34.30:939][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock001/SM_GroundRevealRock001' while loading NULL.
+[2019.01.31-14.34.30:940][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/SM_GroundRevealRock002'
+[2019.01.31-14.34.30:940][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/GroundRevealRock002/SM_GroundRevealRock002.SM_GroundRevealRock002 Referenced by SM_GroundRevealRock002_67
+[2019.01.31-14.34.30:940][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/GroundRevealRock002/SM_GroundRevealRock002' while loading NULL.
+[2019.01.31-14.34.30:940][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/SM_LargePlainsBoulder002'
+[2019.01.31-14.34.30:941][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/SM_LargePlainsBoulder002.SM_LargePlainsBoulder002 Referenced by SM_LargePlainsBoulder002_55
+[2019.01.31-14.34.30:941][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/LargePlainsBoulder002/SM_LargePlainsBoulder002' while loading NULL.
+[2019.01.31-14.34.30:941][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock'
+[2019.01.31-14.34.30:941][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock.SM_MountainRock Referenced by SM_MountainRock_58
+[2019.01.31-14.34.30:942][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock' while loading NULL.
+[2019.01.31-14.34.30:942][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock_Closed'
+[2019.01.31-14.34.30:942][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock_Closed.SM_MountainRock_Closed Referenced by SM_MountainRock_Closed_61
+[2019.01.31-14.34.30:942][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock_Closed' while loading NULL.
+[2019.01.31-14.34.30:943][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/River_Rock_01/SM_River_Rock_01'
+[2019.01.31-14.34.30:943][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/River_Rock_01/SM_River_Rock_01.SM_River_Rock_01 Referenced by SM_River_Rock_01_76
+[2019.01.31-14.34.30:943][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/River_Rock_01/SM_River_Rock_01' while loading NULL.
+[2019.01.31-14.34.30:944][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Cliffs/Cliff01/SM_Cliff01'
+[2019.01.31-14.34.30:944][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Cliffs/Cliff01/SM_Cliff01.SM_Cliff01 Referenced by SM_RockFace001_7
+[2019.01.31-14.34.30:944][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Cliffs/Cliff01/SM_Cliff01' while loading NULL.
+[2019.01.31-14.34.30:945][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_Bend'
+[2019.01.31-14.34.30:945][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_Bend.SM_Scree002_Bend Referenced by SM_Scree002_Bend_52
+[2019.01.31-14.34.30:945][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_Bend' while loading NULL.
+[2019.01.31-14.34.30:946][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_NEW'
+[2019.01.31-14.34.30:946][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_NEW.SM_Scree002_NEW Referenced by SM_Scree002_NEW_49
+[2019.01.31-14.34.30:946][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002_NEW' while loading NULL.
+[2019.01.31-14.34.30:947][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002a'
+[2019.01.31-14.34.30:947][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002a.SM_Scree002a Referenced by SM_Scree002a_46
+[2019.01.31-14.34.30:947][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002a' while loading NULL.
+[2019.01.31-14.34.30:947][ 14]LogLinker: Warning: Can't find file '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002b'
+[2019.01.31-14.34.30:947][ 14]LoadErrors: Failed to load /Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002b.SM_Scree002b Referenced by SM_Scree002b_43
+[2019.01.31-14.34.30:948][ 14]LogLinker: Warning: Can't find file for asset '/Game/KiteDemo/Environments/Rocks/Scree002/SM_Scree002b' while loading NULL.
+[2019.01.31-14.34.46:754][ 14]LogTexture: Display: Building textures: T_GDC_StonePath_Tile_N (BC5, 8192X8192)
+[2019.01.31-14.34.46:754][ 14]LogTexture: Display: Building textures: T_GDC_RockFace003_H (AutoDXT, 8192X8192)
+[2019.01.31-14.34.46:754][ 14]LogTexture: Display: Building textures: T_Tile_PebblyRiverbank_D_R (AutoDXT, 8192X8192)
+[2019.01.31-14.36.46:197][ 14]LogTexture: Display: Building textures: T_Tile_RiverPebbles_H (AutoDXT, 8192X8192)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: T_GDC_RockFace003_N (BC5, 8192X8192)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: T_Tile_RiverPebbles_N (BC5, 8192X8192)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: T_GDC_Tiling_LeafPath_H (AutoDXT, 4096X4096)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: T_GDC_Tiling_LeafPath_N (BC5, 4096X4096)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: T_Tiling_LavaFlow002_H (AutoDXT, 4096X4096)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: T_Tiling_LavaFlow002_N (BC5, 4096X4096)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: T_gravelTile_01A_H (AutoDXT, 4096X4096)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: T_gravelTile_01A_N (BC5, 4096X4096)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: ScotsPineTall_01_Atlas_Billboards_Tex (AutoDXT, 2048X2048)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: ScotsPineTall_01_Atlas_Billboards_Normal_Tex (BC5, 2048X2048)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: T_gravelTile_01_N (BC5, 8192X8192)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: T_gravelTile_01_H (AutoDXT, 4096X4096)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: T_Forest_Path_001B_N (BC5, 8192X8192)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X512)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: T_Forest_Path_001A_N (BC5, 4096X4096)
+[2019.01.31-14.36.46:198][ 14]LogTexture: Display: Building textures: T_GDC_StonePath_Tile_H (AutoDXT, 8192X8192)
+[2019.01.31-14.36.46:198][ 14]LogMaterial: Display: Missing cached shader map for material M_Photoscan_Master_Displacement, compiling. 
+[2019.01.31-14.36.46:508][ 14]LogShaderCompilers: Display: Shaders left to compile 281
+[2019.01.31-14.36.46:508][ 14]LogShaderCompilers: Display: Shaders left to compile 271
+[2019.01.31-14.36.46:508][ 14]LogShaderCompilers: Display: Shaders left to compile 261
+[2019.01.31-14.36.46:508][ 14]LogMaterial: Display: Missing cached shader map for material M_Photoscan_Master_Displacement, compiling. 
+[2019.01.31-14.36.50:686][ 14]LogTexture: Display: Building textures: T_GDC_Tiling_LeafPathStones_D_R (AutoDXT, 4096X4096)
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 532
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 522
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 512
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 502
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 492
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 482
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 472
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 462
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 452
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 442
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 432
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 422
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 412
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 402
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 392
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 382
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 372
+[2019.01.31-14.37.22:372][ 14]LogShaderCompilers: Display: Shaders left to compile 362
+[2019.01.31-14.37.22:372][ 14]LogMaterial: Display: Missing cached shader map for material M_CustomDepthBillboard, compiling. 
+[2019.01.31-14.37.22:538][ 14]LogMaterial: Display: Missing cached shader map for material HillTree_01_Leaves_Mat, compiling. 
+[2019.01.31-14.37.22:619][ 14]LogMaterial: Display: Missing cached shader map for material HillTree_01_Fronds_Mat, compiling. 
+[2019.01.31-14.37.22:732][ 14]LogMaterial: Display: Missing cached shader map for material HillTree_01_Billboard_Mat, compiling. 
+[2019.01.31-14.37.23:180][ 14]LogShaderCompilers: Display: Shaders left to compile 794
+[2019.01.31-14.37.23:180][ 14]LogStaticMesh: Building static mesh HillTree_02...
